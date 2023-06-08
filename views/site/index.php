@@ -5,7 +5,7 @@
 $this->title = 'My Yii Application';
 ?>
  <!-- welcome section -->
- <section class="welcome_section layout_padding">
+  <section class="welcome_section layout_padding">
     <div class="container">
       <div class="custom_heading-container">
         <h2>
